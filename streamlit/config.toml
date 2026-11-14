@@ -1,0 +1,12 @@
+[theme]
+base="dark"
+primaryColor="#FFD700"  # A gold accent, fitting for the Sun
+backgroundColor="#0E1117"
+secondaryBackgroundColor="#1A1F2B"
+textColor="#FAFAFA"
+font="sans serif"
+baseRadius="8px"
+showWidgetBorder=true
+
+[theme.sidebar]
+backgroundColor="#0A0C10"
