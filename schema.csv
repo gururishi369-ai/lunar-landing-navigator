@@ -1,0 +1,1 @@
+site_id,site_name,latitude,longitude,timestamp_utc,sun_azimuth_deg,sun_elevation_deg,earth_azimuth_deg,earth_elevation_deg,solar_power_w,battery_soc,earth_visible_geom

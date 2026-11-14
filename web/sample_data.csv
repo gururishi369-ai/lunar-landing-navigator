@@ -1,0 +1,3 @@
+site_id,site_name,latitude,longitude,timestamp_utc,sun_azimuth_deg,sun_elevation_deg,earth_azimuth_deg,earth_elevation_deg,solar_power_w,battery_soc,earth_visible_geom
+shackleton,Shackleton Rim,-89.7668,-171.8700,2026-11-14T00:00:00Z,45.0,2.1,120.0,5.3,120.5,0.85,1
+shackleton,Shackleton Rim,-89.7668,-171.8700,2026-11-14T01:00:00Z,50.0,2.3,121.0,5.4,130.2,0.87,1
